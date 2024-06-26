@@ -21,7 +21,6 @@
 |Main       | spouse          | Each entry in this column must be unique.                                                |
 |-----------|-----------------|------------------------------------------------------------------------------------------|
 |Main       |                 | When entries from columns `person` and `spouse` are concatenated together, they must     |
-|-----------|-----------------|------------------------------------------------------------------------------------------|
 |Main       |                 | form a unique set excluding blanks                                                       |
 |-----------|-----------------|------------------------------------------------------------------------------------------|
 |images     | person          | Entries must be unique, present in either `person` or `spouse` column of worksheet `Main`|

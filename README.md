@@ -2,7 +2,7 @@
 
 ## Creates a Family Tree
 
-##### This python script, when executed, reads "Dasharah.xlsx" and creates an HTML file which can be used to host a demo family tree
+##### This python script, when executed, reads "Dasharath.xlsx" and creates an HTML file which can be used to host a demo family tree
 
 ##### Modify the spreadsheet to create your own family tree applying the rules of uniqueness below to the spreadsheet columns	   
 
@@ -27,4 +27,4 @@
 |-----------|-----------------|------------------------------------------------------------------------------------------|
 |images     | image           | Each entry in this column must be unique                                                 |
 |-----------|-----------------|------------------------------------------------------------------------------------------|
-!(family_tree.jpg)
+
